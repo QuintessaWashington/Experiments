@@ -1,0 +1,22 @@
+ h1, h2,h3,h4{
+            color: green;
+            font-size: 30px;
+            background-color: purple;
+        }
+        h1{
+            color: coral;
+            /*color: rgba(rgb(158, 28, 28), green, blue, alpha);*/
+        }
+        .important{
+            color: rgb(255, 0, 212);
+        }
+        .uppercase{
+            text-transform: uppercase;
+            color: hotpink;
+            background-color: black;
+
+        }
+       
+        #theOne{
+            color: blue;
+        }
